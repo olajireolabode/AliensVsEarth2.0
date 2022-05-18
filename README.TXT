@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Aliens Vs Earth
+PURPOSE OF PROJECT: Game Project
+VERSION or DATE: 2
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Olajire
 USER INSTRUCTIONS:
